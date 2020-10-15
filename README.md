@@ -12,6 +12,6 @@ AWS services used:
 - VPC
 - QuickSight
 
-Primary languange used: Python. 
+Primary language used: Python. 
 
 
